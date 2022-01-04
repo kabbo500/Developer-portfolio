@@ -8,7 +8,11 @@ h1{
 .k{
     color: orange;
 }
-section{
+.high{
+    display: flex;
+    margin-bottom: 150px;
+}
+.cont{
     display: flex;
 }
 .half{
@@ -20,7 +24,7 @@ section{
 }
 .hire-me{
     text-decoration: none;
-    background-image: linear-gradient(orange, blue);
+    background-image: linear-gradient(orange, black);
     padding: 10Px 40px;
     color: powderblue;
     border-radius: 5px;
@@ -29,4 +33,18 @@ section{
 .top{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+.download{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, blue);
+    padding: 8Px 20px;
+}
+.seceond{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.jk{
+    width: 50%;
 }
