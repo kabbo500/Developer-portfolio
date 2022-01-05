@@ -6,7 +6,6 @@ body{
     background-color: black;
     color: white;
   }
-
 h1{
     font-size: 45px;
 }
@@ -14,7 +13,7 @@ h1{
     color: orange;
 }
 .top-high{
-    background-image: url(top-banner.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     display: flex;
     margin-bottom: 150px;
